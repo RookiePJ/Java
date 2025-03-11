@@ -162,6 +162,7 @@
               * [MatrixGraphs](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/graphs/MatrixGraphs.java)
               * [PrimMST](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/graphs/PrimMST.java)
               * [TarjansAlgorithm](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/graphs/TarjansAlgorithm.java)
+              * [UndirectedAdjacencyListGraph](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/graphs/UndirectedAdjacencyListGraph.java)
               * [WelshPowell](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/graphs/WelshPowell.java)
             * hashmap
               * hashing
@@ -319,6 +320,7 @@
             * [SubsetSum](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/dynamicprogramming/SubsetSum.java)
             * [SubsetSumSpaceOptimized](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/dynamicprogramming/SubsetSumSpaceOptimized.java)
             * [SumOfSubset](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/dynamicprogramming/SumOfSubset.java)
+            * [TreeMatching](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/dynamicprogramming/TreeMatching.java)
             * [Tribonacci](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/dynamicprogramming/Tribonacci.java)
             * [UniquePaths](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/dynamicprogramming/UniquePaths.java)
             * [UniqueSubsequencesCount](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/dynamicprogramming/UniqueSubsequencesCount.java)
@@ -724,7 +726,7 @@
             * zigZagPattern
               * [ZigZagPattern](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/strings/zigZagPattern/ZigZagPattern.java)
           * tree
-            * [HeavyLightDecomposition](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/tree/HeavyLightDecomposition.java)
+            * [HeavyLightDecomposition](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/tree/HeavyLightDecomposition.java)
   * test
     * java
       * com
@@ -1003,6 +1005,7 @@
             * [SubsetSumSpaceOptimizedTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/dynamicprogramming/SubsetSumSpaceOptimizedTest.java)
             * [SubsetSumTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/dynamicprogramming/SubsetSumTest.java)
             * [SumOfSubsetTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/dynamicprogramming/SumOfSubsetTest.java)
+            * [TreeMatchingTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/dynamicprogramming/TreeMatchingTest.java)
             * [TribonacciTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/dynamicprogramming/TribonacciTest.java)
             * [UniquePathsTests](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/dynamicprogramming/UniquePathsTests.java)
             * [UniqueSubsequencesCountTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/dynamicprogramming/UniqueSubsequencesCountTest.java)
